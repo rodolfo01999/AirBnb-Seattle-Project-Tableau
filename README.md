@@ -17,5 +17,4 @@ This project analyzes rental trends in **Airbnb Seattle**, focusing on:
 - **Excel** (if applicable) – Data preprocessing  
 
 ## 📷 Screenshots  
-![Dashboard Preview](screenshots/dashboard_1.png)  
-![Price Distribution](screenshots/dashboard_2.png)  
+![Dashboard Preview](Captura de pantalla 2025-02-17 202355.png)  
