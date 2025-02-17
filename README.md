@@ -15,6 +15,3 @@ This project analyzes rental trends in **Airbnb Seattle**, focusing on:
 ## 🛠️ Tools Used  
 - **Tableau** – Data visualization and analysis  
 - **Excel** (if applicable) – Data preprocessing  
-
-## 📷 Screenshots  
-![Dashboard Preview](Captura de pantalla 2025-02-17 202355.png)  
